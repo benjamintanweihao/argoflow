@@ -2,7 +2,7 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-- github.com/kubeflow/pipelines/manifests/kustomize/env/platform-agnostic-multi-user-pns?ref=2b5a5dd2d0beea39dd2d961d31ebad2ad363742a # tag=1.5.0
+- github.com/kubeflow/pipelines/manifests/kustomize/env/platform-agnostic-multi-user-pns?ref=e44824895cee2f7ea3cacb46c3a7d0863a8310d5 # tag=1.8.16
 
 images:
 - name: gcr.io/ml-pipeline/cache-deployer
