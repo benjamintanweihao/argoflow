@@ -34,4 +34,4 @@ images:
   digest: sha256:5f037fe6755fb85fb0a155f9892c8519a058dbf395d2d04b2c6769ffd2d68950
 - name: gcr.io/knative-releases/knative.dev/eventing/cmd/mtping
   newName: gcr.io/knative-releases/knative.dev/eventing/cmd/mtping
-  digest: sha256:ac30b62fa390b01c24a9bb891c4b8aa7a8c6c747a5182592d81af58d65eaa65c
+  digest: sha256:bdacd9697a393bcb445ad32bea0e1cf0492d013316cd486f9162a0084005b49a
