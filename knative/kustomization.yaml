@@ -15,7 +15,7 @@ images:
   digest: sha256:761dc36210e69ebef3a64ce72ad9f54f8172e4aed6b97e8a706e3128956ec54d
 - name: gcr.io/knative-releases/knative.dev/serving/cmd/webhook
   newName: gcr.io/knative-releases/knative.dev/serving/cmd/webhook
-  digest: sha256:268bd1383b56ba7b9acf391c681f7a63780c22dcd4555c2f4a7b61ec6da81cf4
+  digest: sha256:0fb5a4245aa4737d443658754464cd0a076de959fe14623fb9e9d31318ccce24
 - name: gcr.io/knative-releases/knative.dev/serving/cmd/controller
   newName: gcr.io/knative-releases/knative.dev/serving/cmd/controller
   digest: sha256:d772809059033e437d6e98248a334ded37b6f430c2ca23377875cc2459a3b73e
