@@ -24,7 +24,7 @@ images:
   digest: sha256:17ee40a68cda50772375dcc4230efa99e7f8666a050ad2ffcd0338ff31c1bfaa
 - name: gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook
   newName: gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook
-  digest: sha256:1da4b47f1778005b3cf07d384cac27c8c688628b9e7e631f15dd6ac3456c3039
+  digest: sha256:ac5c0458f32e353a635919ccd89fe77a7bf650c5354dd76c71e9316eff5de65d
 # Eventing is optional
 - name: gcr.io/knative-releases/knative.dev/eventing/cmd/controller
   newName: gcr.io/knative-releases/knative.dev/eventing/cmd/controller
