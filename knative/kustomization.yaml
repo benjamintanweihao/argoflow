@@ -18,7 +18,7 @@ images:
   digest: sha256:268bd1383b56ba7b9acf391c681f7a63780c22dcd4555c2f4a7b61ec6da81cf4
 - name: gcr.io/knative-releases/knative.dev/serving/cmd/controller
   newName: gcr.io/knative-releases/knative.dev/serving/cmd/controller
-  digest: sha256:d772809059033e437d6e98248a334ded37b6f430c2ca23377875cc2459a3b73e
+  digest: sha256:ca5062ece0329d002a81940cf4268d7898866434d70049bb93f27d3a786d3292
 - name: gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
   newName: gcr.io/knative-releases/knative.dev/net-istio/cmd/controller
   digest: sha256:17ee40a68cda50772375dcc4230efa99e7f8666a050ad2ffcd0338ff31c1bfaa
