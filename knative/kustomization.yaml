@@ -28,7 +28,7 @@ images:
 # Eventing is optional
 - name: gcr.io/knative-releases/knative.dev/eventing/cmd/controller
   newName: gcr.io/knative-releases/knative.dev/eventing/cmd/controller
-  digest: sha256:b02cfc6d0858de1ae6d5d5acbe1ac2ed1c5411f2adcec417c2b113b3b3274e4a
+  digest: sha256:1564af0477c20e7dd18d86d017a2ec39b05ba5356a42e7ca04491bf82f3a948d
 - name: gcr.io/knative-releases/knative.dev/eventing/cmd/webhook
   newName: gcr.io/knative-releases/knative.dev/eventing/cmd/webhook
   digest: sha256:5f037fe6755fb85fb0a155f9892c8519a058dbf395d2d04b2c6769ffd2d68950
